@@ -1,4 +1,4 @@
 # fish-cfg
 Fish configuration
 
-usually live in /home/user/.config/fish
+Usually lives in /home/user/.config/fish
