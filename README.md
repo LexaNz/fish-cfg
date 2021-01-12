@@ -1,0 +1,2 @@
+# fish-cfg
+Fish configuration
